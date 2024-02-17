@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Recording Modes_suite_001,,,,2023-12-30 16:03:53,2023-12-30 16:03:54,1.320s,PASSED
+,,,,,,,
+Test Cases/Recording Modes1,,,,2023-12-30 16:03:54,2023-12-30 16:03:54,0.831s,PASSED
+return null,,,,2023-12-30 16:03:54,2023-12-30 16:03:54,0.018s,PASSED

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Recording Modes_suite_001" time="1.32" tests="1" failures="0" errors="0">
+   <testsuite name="Recording Modes_suite_001" tests="1" failures="0" errors="0" time="1.32" skipped="0" timestamp="2023-12-30 16:03:53" hostname="Welcome - DESKTOP-NFUBHF0" id="Test Suites/Recording Modes_Suite/Recording Modes_suite_001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Welcome\\Katalon Studio\\Software Automation Testing with Kataloon\\Reports\\20231230_160340\\Recording Modes_Suite\\Recording Modes_suite_001\\20231230_160340"/>
+         <property name="logFiles" value="C:\\Users\\Welcome\\Katalon Studio\\Software Automation Testing with Kataloon\\Reports\\20231230_160340\\Recording Modes_Suite\\Recording Modes_suite_001\\20231230_160340\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Welcome - DESKTOP-NFUBHF0"/>
+         <property name="hostAddress" value="10.10.54.132"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Recording Modes1" time="0.831" classname="Test Cases/Recording Modes1" status="PASSED">
+         <system-out><![CDATA[2023-12-30 16:03:54 - [TEST_CASE][PASSED] - Test Cases/Recording Modes1: Test Cases/Recording Modes1
+
+2023-12-30 16:03:54 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-30 16:03:53 - [TEST_SUITE][PASSED] - Recording Modes_suite_001: Test Cases/Recording Modes1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
